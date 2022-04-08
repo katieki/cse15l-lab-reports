@@ -1,6 +1,6 @@
 *안녕하세요!*
 ---
-![Image](http://url/a.png)
+![Image](https://commonmark.org/help/images/favicon.png)
 [Link](http://a.com)
 **SPRITE**
 # Heading 1
